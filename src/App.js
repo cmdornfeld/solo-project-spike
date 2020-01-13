@@ -12,7 +12,7 @@ const barData = {
       borderWidth: 1,
       hoverBackgroundColor: 'rgba(255,99,132,0.4)',
       hoverBorderColor: 'rgba(255,99,132,1)',
-      data: [72, 75, 75, 73, 77, 76, 74]
+      data: [72, 75, 75, 73, 77, 76, 75]
     }
   ]
 };
